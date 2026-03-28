@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vibe Alarm</string>
+    <string name="alarm_notification_title">Alarm</string>
+    <string name="alarm_notification_body">Wake up</string>
+    <string name="channel_alarm_name">Alarms</string>
+    <string name="channel_bedtime_name">Bedtime</string>
+    <string name="bedtime_notification_title">Bedtime reminder</string>
+    <string name="bedtime_notification_body">Wind down — your alarm is in about 8 hours.</string>
+</resources>

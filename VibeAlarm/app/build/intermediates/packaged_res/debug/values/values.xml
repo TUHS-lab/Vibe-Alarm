@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF6A2A</color>
+    <color name="orange">#FF6A2A</color>
+    <string name="alarm_notification_body">Wake up</string>
+    <string name="alarm_notification_title">Alarm</string>
+    <string name="app_name">Vibe Alarm</string>
+    <string name="bedtime_notification_body">Wind down — your alarm is in about 8 hours.</string>
+    <string name="bedtime_notification_title">Bedtime reminder</string>
+    <string name="channel_alarm_name">Alarms</string>
+    <string name="channel_bedtime_name">Bedtime</string>
+    <style name="Theme.VibeAlarm" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

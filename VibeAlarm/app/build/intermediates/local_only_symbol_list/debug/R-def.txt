@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color orange
+drawable ic_alarm_clock
+drawable ic_bell
+drawable ic_launcher
+drawable ic_launcher_background_gradient
+drawable ic_launcher_foreground
+drawable ic_stat_alarm
+id webview
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw alarm_default
+raw ambient_pad
+raw deep_sleep
+raw morning_piano
+raw ocean_waves
+raw soft_rain
+string alarm_notification_body
+string alarm_notification_title
+string app_name
+string bedtime_notification_body
+string bedtime_notification_title
+string channel_alarm_name
+string channel_bedtime_name
+style Theme.VibeAlarm

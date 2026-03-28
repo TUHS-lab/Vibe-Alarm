@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\drawable_ic_launcher_background_gradient.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\drawable\\ic_launcher_background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\raw_deep_sleep.wav.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\raw\\deep_sleep.wav"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\raw_morning_piano.wav.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\raw\\morning_piano.wav"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\drawable_ic_stat_alarm.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\drawable\\ic_stat_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\raw_ambient_pad.wav.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\raw\\ambient_pad.wav"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\raw_alarm_default.wav.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\raw\\alarm_default.wav"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\raw_soft_rain.wav.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\raw\\soft_rain.wav"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\raw_ocean_waves.wav.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\raw\\ocean_waves.wav"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\drawable_ic_alarm_clock.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\drawable\\ic_alarm_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-merged_res-32:\\drawable_ic_bell.xml.flat",
+        "source": "C:\\Users\\YourSystem\\.gradle\\daemon\\8.2\\com.vibealarm.app-main-34:\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "com.vibealarm.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.vibealarm.app-main-34:/drawable/ic_launcher_foreground.xml"
+    }
+]
