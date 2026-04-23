@@ -78,7 +78,18 @@ flowchart LR
 
 ---
 
-## Building
+## Download
+
+**[→ Vibe Alarm v1.0 — latest APK on GitHub Releases](https://github.com/TUHS-lab/Vibe-Alarm/releases/tag/v1.0)**
+
+1. On that page, under **Assets**, download the `.apk` file.  
+2. Open it on your phone and install; if prompted, allow installation from that source (browser, Files, etc.).
+
+---
+
+## Build from source
+
+Use this if you are developing or prefer to compile locally. End users can ignore this and use [Download](#download) instead.
 
 | Requirement | Version |
 |-------------|---------|
