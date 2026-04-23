@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/AGP-8.2-4285F4?style=flat" alt="Android Gradle Plugin"/>
 </p>
 
+<p align="center">
+  <img src="image/vibe-alarm.png" alt="Vibe Alarm — new alarm and dashboard" width="680"/>
+</p>
+
 ---
 
 ## Why it exists
